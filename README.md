@@ -104,31 +104,3 @@ web-crud-app
         ├── header.ejs
         └── footer.ejs
 
-### Penjelasan Struktur Folder
-
-| File / Folder | Keterangan |
-|--------------|-----------|
-| `app.js` | File utama NodeJS (Express) yang mengatur routing halaman, endpoint JSON, dan proses CRUD data mahasiswa. |
-| `package.json` | File konfigurasi project yang berisi informasi project, script untuk menjalankan aplikasi, dan daftar dependency yang digunakan. |
-| `package-lock.json` | File lock dependency hasil instalasi npm untuk memastikan versi package yang digunakan tetap konsisten. |
-| `Asset/` | Folder yang berisi logo dan dokumentasi output aplikasi berupa screenshot halaman project. |
-| `Asset/LogoTelkom.png` | File logo yang ditampilkan pada bagian atas laporan di `README.md`. |
-| `Asset/Page 1.png` | Screenshot halaman Home aplikasi. |
-| `Asset/Page 2.png` | Screenshot halaman Form Input Data. |
-| `Asset/Page 3.png` | Screenshot halaman Tabel Data Mahasiswa. |
-| `data/` | Folder penyimpanan data utama aplikasi dalam format JSON. |
-| `data/students.json` | File JSON yang berisi data mahasiswa dan digunakan sebagai sumber data pada tabel DataTables. |
-| `public/` | Folder untuk file statis yang dapat diakses langsung oleh browser. |
-| `public/css/` | Folder untuk file CSS tambahan. |
-| `public/css/style.css` | File CSS yang digunakan untuk menambahkan styling khusus pada tampilan aplikasi. |
-| `public/js/` | Folder untuk file JavaScript frontend. |
-| `public/js/form.js` | File JavaScript yang berisi validasi form menggunakan jQuery Validate dan notifikasi menggunakan jQuery Toast. |
-| `public/js/table.js` | File JavaScript yang berisi implementasi DataTables untuk menampilkan data JSON ke dalam tabel. |
-| `views/` | Folder template EJS yang digunakan untuk menampilkan halaman aplikasi. |
-| `views/index.ejs` | File halaman Home atau halaman utama aplikasi. |
-| `views/create.ejs` | File halaman Form Input untuk menambahkan data mahasiswa. |
-| `views/students.ejs` | File halaman Tabel Data yang menampilkan data mahasiswa dengan DataTables. |
-| `views/edit.ejs` | File halaman Edit Data untuk memperbarui data mahasiswa. |
-| `views/partials/` | Folder untuk komponen halaman yang digunakan berulang. |
-| `views/partials/header.ejs` | Bagian header yang berisi struktur awal HTML, import Bootstrap CSS, dan navbar aplikasi. |
-| `views/partials/footer.ejs` | Bagian footer yang berisi import jQuery, DataTables, jQuery Validate, jQuery Toast, dan penutup HTML. |
