@@ -2,12 +2,15 @@
 <h1 align="center">APLIKASI BERBASIS PLATFORM</h1>
 
 <br>
+
 <p align="center">
-  <img src="asset/LogoTelkom.png" width="250">
+  <img src="./Asset/LogoTelkom.png" width="250" alt="Logo Telkom University">
 </p>
 
+<br>
+
 <h2 align="center">TUGAS 2</h2>
-<h2 align="center">Modul 7&8</h2>
+<h2 align="center">Modul 7 & 8</h2>
 
 <br><br>
 
@@ -76,6 +79,12 @@ web-crud-app
 ├── app.js
 ├── package.json
 ├── package-lock.json
+│
+├── Asset
+│   ├── LogoTelkom.png
+│   ├── Page 1.png
+│   ├── Page 2.png
+│   └── Page 3.png
 │
 ├── data
 │   └── students.json
