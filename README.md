@@ -4,23 +4,23 @@
 <br>
 
 <h2 align="center">TUGAS 2</h2>
-<h2 align="center">WEB SEDERHANA</h2>
+<h2 align="center">Modul 7&8</h2>
 
 <br><br>
 
 <h2 align="center">Disusun Oleh :</h2>
 
 <p align="center" style="font-size:28px;">
-  <b>Zefanya Tarigan</b><br>
+  <b>Zefanya Brana Tertius Tarigan</b><br>
   <b>2311102028</b><br>
   <b>S1 Informatika</b>
 </p>
 
 <br>
 
-<h2 align="center">LABORATORIUM HIGH PERFORMANCE</h2>
+<h2 align="center">PROGRAM STUDI S1 INFORMATIKA</h2>
 <h2 align="center">FAKULTAS INFORMATIKA</h2>
-<h2 align="center">UNIVERSITAS TELKOM PURWOKERTO</h2>
+<h2 align="center">TELKOM UNIVERSITY</h2>
 <h2 align="center">TAHUN 2026</h2>
 
 <hr>
