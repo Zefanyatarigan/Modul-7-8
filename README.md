@@ -3,15 +3,14 @@
 
 <br>
 
-<p align="center">
-  <img src="./Asset/LogoTelkom.png" width="250" alt="Logo Telkom University">
-</p>
-
-<br>
-
 <h2 align="center">TUGAS 2</h2>
 <h2 align="center">Modul 7 & 8</h2>
 
+<br>
+
+<p align="center">
+  <img src="./Asset/LogoTelkom.png" width="250" alt="Logo Telkom University">
+</p>
 <br><br>
 
 <h2 align="center">Disusun Oleh :</h2>
