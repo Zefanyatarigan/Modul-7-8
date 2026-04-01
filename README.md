@@ -1,2 +1,31 @@
 # Modul-7-8
 2311102028_ZefanyaTarigan_Modul7&amp;8
+LAPORAN PRAKTIKUM
+Aplikasi Berbasis Platform
+
+Tugas 2
+Modul 7&8
+
+
+
+
+
+
+
+
+
+
+Disusun oleh:
+ZEFANYA BRANA TERTIUS TARIGAN
+2311102028
+S1 IF-11-REG04
+
+
+Dosen Pengampu:
+Cahyo Prihantoro, S.Kom., M.Eng
+
+PROGRAM STUDI S1 INFORMATIKA
+FAKULTAS INFORMATIKA
+TELKOM UNIVERSITY
+2026/2027
+
