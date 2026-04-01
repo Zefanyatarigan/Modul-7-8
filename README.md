@@ -336,5 +336,5 @@ Tambahkan link video presentasi di sini.
 
 Contoh:
 ```text
-https://drive.google.com/xxxxxxxx
+[https://drive.google.com/xxxxxxxx](https://drive.google.com/drive/folders/1irJ7o_K69CUdq2W7iyxGskoOSfdBsEvl?usp=sharing)
 ```
