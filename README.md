@@ -5,7 +5,7 @@
 
 <br>
 
-<h2 align="center">TUGAS COTS 1</h2>
+<h2 align="center">TUGAS 2</h2>
 <h2 align="center">WEB SEDERHANA</h2>
 
 <br><br>
