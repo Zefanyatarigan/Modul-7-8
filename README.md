@@ -1,5 +1,3 @@
-# Modul-7-8
-2311102028_ZefanyaTarigan_Modul7&amp;8
 <h1 align="center">LAPORAN PRAKTIKUM</h1>
 <h1 align="center">APLIKASI BERBASIS PLATFORM</h1>
 
