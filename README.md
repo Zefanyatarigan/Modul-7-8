@@ -2,6 +2,9 @@
 <h1 align="center">APLIKASI BERBASIS PLATFORM</h1>
 
 <br>
+<p align="center">
+  <img src="asset/LogoTelkom.png" width="250">
+</p>
 
 <h2 align="center">TUGAS 2</h2>
 <h2 align="center">Modul 7&8</h2>
